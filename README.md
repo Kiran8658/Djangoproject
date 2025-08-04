@@ -1,1 +1,1 @@
-# MyGITHUBproject
+# MyGITHUBproject creating project on GITHUB
