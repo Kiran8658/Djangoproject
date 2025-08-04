@@ -1,1 +1,1 @@
-# MyGITHUBproject creating project on GITHUB
+# Djangpproject creating project on GITHUB
